@@ -1,4 +1,4 @@
-# Plume_Segmentation
+# Plume_Detection
 
 It should be self explanatory and very easy to use.
 So even if you've never used python before, I made it as user friendly as possible.
